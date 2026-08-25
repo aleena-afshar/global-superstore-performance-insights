@@ -1,4 +1,4 @@
-# Global Superstore Performance Insights (Power BI + Excel)
+# Global Superstore Performance Insights (Power BI)
 
 A 4-page interactive Power BI report analyzing 51,290 global orders across sales, product profitability, customer/market performance, and shipping operations — built on a dedicated Date table and a full library of DAX measures.
 
@@ -150,6 +150,6 @@ A dedicated Date table was built with `CALENDAR()` and marked as the official da
 
 ## Author & Contact
 **Aleena Afshar**
-Data Analyst
+Aspiring Data Analyst
 📧 afsharaleena@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/aleena-afshar) • [GitHub](https://github.com/aleena-afshar)
